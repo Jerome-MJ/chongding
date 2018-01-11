@@ -43,6 +43,4 @@
    start(path)
    ```
 
-   ​
-
-![图像1](https://github.com/Jerome-MJ/chongding/blob/master/2018-01-11%2017%3A07%3A58.png)
+![图像1](https://github.com/Jerome-MJ/chongding/raw/master/2018-01-11%2017%3A07%3A58.png)

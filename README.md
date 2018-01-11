@@ -2,7 +2,9 @@
 
 > 利用python 截取pc区域页面，利用百度识别对应问题，然后根据问题查询百度，匹配答案出现次数，仅仅只能作为辅助，因为我靠这个。还没有拿到过奖金。。被冷门知识难到了。
 
+# 效果图
 
+![](http://p1it9mdjq.bkt.clouddn.com/QQ20180111-0@2x.png)
 
 ### 工具：
 
@@ -43,4 +45,5 @@
    start(path)
    ```
 
-![图像1](https://github.com/Jerome-MJ/chongding/raw/master/2018-01-11+17%3a09%3a40.png)
+![图像1](http://p1it9mdjq.bkt.clouddn.com/2018-01-11%2017:02:47.png)
+

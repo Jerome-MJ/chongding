@@ -16,6 +16,18 @@
 
    ​
 
+### 依赖包
+
+```python
+#目前是基于PY3.6写的，2.7的基本也可以用，无非换一下网络层面的用urllib2就行。
+# 在3.6用的urllib.request 太慢了，高达5s以上，requests都是1-2s内响应
+pip install baidu-aip
+pip install Pillow
+pip install requests
+```
+
+
+
 ### 步骤
 
 1. 修改capture.py文件下的cap中bbox的范围

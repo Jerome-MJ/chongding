@@ -45,5 +45,3 @@
    start(path)
    ```
 
-![图像1](http://p1it9mdjq.bkt.clouddn.com/2018-01-11%2017:02:47.png)
-

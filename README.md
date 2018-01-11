@@ -43,4 +43,4 @@
    start(path)
    ```
 
-![图像1](https://github.com/Jerome-MJ/chongding/raw/master/2018-01-11 17:09:40.png)
+![图像1](https://github.com/Jerome-MJ/chongding/raw/master/2018-01-11+17%3a09%3a40.png)
